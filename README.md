@@ -18,7 +18,7 @@
 
 :small_blue_diamond: [Como rodar os testes](#como-rodar-os-testes)
 
-:small_blue_diamond: [Linguagens](#linguaguens)
+:small_blue_diamond: [Linguagens](#linguagens)
 
 ## Descrição do projeto 
 
