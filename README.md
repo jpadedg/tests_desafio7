@@ -27,7 +27,7 @@
 </p>
 
 
-## Como rodar a aplicação :arrow_forward:
+## Como rodar a aplicação
 
 No terminal, clone o projeto: 
 
@@ -81,7 +81,7 @@ Execute essa linha de código no terminal
 ```
 
 
-## Linguagens :books:
+## Linguagens
 
 - [Express](https://expressjs.com/pt-br/)
 - [Typescript](https://www.typescriptlang.org)
