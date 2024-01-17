@@ -12,7 +12,7 @@
 
 :small_blue_diamond: [Descrição do projeto](#descrição-do-projeto)
 
-:small_blue_diamond: [Como rodar a aplicação](#como-rodar-a-aplicacao)
+:small_blue_diamond: [Como rodar a aplicação](#como-rodar-a-aplicação)
 
 :small_blue_diamond: [Como configurar o banco de dados](#como-configurar-o-banco-de-dados)
 
